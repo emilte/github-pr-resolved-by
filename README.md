@@ -1,5 +1,6 @@
 # github-pr-resolved-by
-Chrome extension to highlight which user resolved a conversation on pull request.
+
+Chrome extension to highlight which user that resolved a conversation on pull a request.
 
 <br>
 
